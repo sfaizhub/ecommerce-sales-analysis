@@ -1,0 +1,6 @@
+data/
+ecommerce.db
+*.db
+.ipynb_checkpoints/
+Untitled.ipynb
+__pycache__/
