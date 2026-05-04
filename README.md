@@ -18,3 +18,6 @@ Olist Brazilian E-Commerce Dataset (Kaggle) — 99,441 orders, 9 tables
 
 ## Dashboard
 Live Tableau Dashboard: https://public.tableau.com/app/profile/faiz.ahmad4711/viz/Book2_17779104895610/Dashboard1
+
+## Dashboard
+Live Tableau Dashboard: https://public.tableau.com/app/profile/faiz.ahmad4711/viz/Book2_17779104895610/Dashboard1
